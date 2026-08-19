@@ -24,6 +24,7 @@ The I Ching, or **Book of Changes**, is an ancient Chinese divination text and p
 
 *   [Yuanyu I Ching Oracle](https://www.yuanyucore.com) - A modern, interactive I Ching tool that guides you through the coin-toss casting method, generates changing lines, and provides clear, practical interpretations of the resulting hexagrams.
 *   [I Ching Online](https://www.ichingonline.net/) - A long-standing, simple virtual coin-shaking tool for quick readings.
+*   [iYarrow](https://iyarrow.xyz) - A free web app pairing I Ching hexagram casting with Zi Wei Dou Shu (紫微斗數) natal charts. Casting uses a visible-entropy interaction (fill a star field, touch three times) fed into an open-source 梅花易數 (Plum Blossom) casting engine, in 6 locales.
 
 ## Developer Tools & Libraries
 
@@ -32,6 +33,7 @@ The I Ching, or **Book of Changes**, is an ancient Chinese divination text and p
 *   [iching (Python Package)](https://pypi.org/project/iching/) - A Python library designed to simulate I Ching divination, generate hexagrams, and fetch associated texts.
 *   [i-ching (npm Package)](https://www.npmjs.com/package/i-ching) - A Node.js module to programmatically roll the I Ching using either the yarrow stalk or three-coin method.
 *   [Unicode I Ching Hexagrams Symbols](https://en.wikipedia.org/wiki/I_Ching_hexagram_symbols) - Information on the dedicated Unicode block (U+4DC0 to U+4DFF) containing all 64 hexagram characters for developers.
+*   [meihua-yishu](https://github.com/muyen/meihua-yishu) - An open-source implementation of the 梅花易數 (Plum Blossom) casting method, packaged as a divination skill for Claude/ChatGPT/Gemini/DeepSeek-style LLM agents.
 
 ## Educational Resources
 
