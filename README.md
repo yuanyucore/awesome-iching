@@ -23,6 +23,7 @@ The I Ching, or **Book of Changes**, is an ancient Chinese divination text and p
 *Websites and applications for casting hexagrams and reading interpretations.*
 
 *   [Yuanyu I Ching Oracle](https://www.yuanyucore.com) - A modern, interactive I Ching tool that guides you through the coin-toss casting method, generates changing lines, and provides clear, practical interpretations of the resulting hexagrams.
+*   [Yijian 64 Hexagrams Reference](https://mm7382.github.io/yijian-web/hexagrams/en/) - A free, login-free reference for all 64 hexagrams with the judgment, the six line texts, and a plain-language explanation of each.
 *   [I Ching Online](https://www.ichingonline.net/) - A long-standing, simple virtual coin-shaking tool for quick readings.
 
 ## Developer Tools & Libraries
@@ -39,6 +40,7 @@ The I Ching, or **Book of Changes**, is an ancient Chinese divination text and p
 
 *   [The 8 Trigrams (Bagua) Explained](https://www.yuanyucore.com/learn-trigrams) - A foundational guide to the eight trigrams (Heaven, Earth, Water, Fire, Wind, Thunder, Lake, Mountain) and their elemental associations.
 *   [How to Cast the I Ching](https://www.yuanyucore.com/how-to-cast) - A step-by-step tutorial comparing the traditional Yarrow Stalk method and the 3-Coin method.
+*   [Beginner Articles on the I Ching](https://mm7382.github.io/learn/en/) - Bilingual introductory articles on casting, changing lines, and how to decide which text to read, released under CC BY 4.0.
 *   [The Structure of a Hexagram](https://www.yuanyucore.com/hexagram-structure) - An article explaining how to read hexagrams from the bottom line (first line) to the top line (sixth line).
 
 ## Translations & Classical Commentaries
